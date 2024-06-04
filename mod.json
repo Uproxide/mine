@@ -5,11 +5,11 @@
 		"android": "2.205"
 	},
 	"version": "v2.0.4",
-	"id": "capeling.geometry-dash-lunar",
-	"name": "Geometry Dash: Lunar",
+	"id": "capeling.geometry-dash-uprpoxide",
+	"name": "Geometry Dash: Uproxide",
 	"developers": [
-		"GenaMorphosis",
-		"Capeling"
+		"Uproxide",
+		"Uproxide"
 	],
 	"early-load": true,
 	"description": "",
